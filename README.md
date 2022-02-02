@@ -6,4 +6,4 @@ Check out the base64 at tags section!
 
 GUI
 
-<img src="/images/image1">
+<img src="images/image1.png">
