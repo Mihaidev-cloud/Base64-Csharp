@@ -1,4 +1,4 @@
-# Base64-C-
+# Base64-CSharp
 base64 made in c#
 
 Check out the base64 at tags section!
